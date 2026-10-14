@@ -1,0 +1,9 @@
+<?php
+unset(
+    $_SESSION["ukuran"],
+    $_SESSION["warna"],
+    $_SESSION["halaman"],
+    $_SESSION["rangkap"],
+    $_SESSION["tarif"],
+    $_SESSION["total"]
+);
